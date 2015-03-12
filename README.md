@@ -10,3 +10,4 @@
 设置委托对象：delegate
 视图显示：showInView
 
+![image](https://github.com/shaw2014/ZSDGridFilterView/raw/master/123.gif)
